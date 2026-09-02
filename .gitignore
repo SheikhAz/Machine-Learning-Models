@@ -1,2 +1,9 @@
 .model/
 .ipynb_checkpoints/
+apps
+settings.py
+__pycache__
+migrations
+.vscode/
+db.sqlite3
+*.log
