@@ -7,3 +7,4 @@ migrations
 .vscode/
 db.sqlite3
 *.log
+ML Platform
